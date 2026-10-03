@@ -7,7 +7,8 @@
       {
         "visualVersion": "1.2.1",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/Plintus.Visuals.1.2.1-FT-1.21.4.jar"
       }
     ]
   },
@@ -19,32 +20,38 @@
       {
         "visualVersion": "3.2",
         "minecraftVersion": "1.16.5",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/Phantom-v3.2-1.16.5.jar"
       },
       {
         "visualVersion": "3.2",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/Phantom-v3.2-1.21.4.jar"
       },
       {
         "visualVersion": "4.0.5",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/phantom-4.0.5-1.21.4.jar"
       },
       {
         "visualVersion": "4.0.6",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/phantom-4.0.6-1.21.4.jar"
       },
       {
         "visualVersion": "4.0.7",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/phantom-4.0.7-1.21.4.jar"
       },
       {
         "visualVersion": "5.0",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/PhantomVisuals-5.0-1.21.4.jar"
       }
     ]
   },
@@ -56,7 +63,8 @@
       {
         "visualVersion": "1.0.0",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/LiquidVisual-1.21.4.jar"
       }
     ]
   },
@@ -68,12 +76,14 @@
       {
         "visualVersion": "2.1",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/Mytheria-2.1-1.21.4.jar"
       },
       {
         "visualVersion": "2.1.1",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/Mytheria-2.1.1-1.21.4.jar"
       }
     ]
   }
