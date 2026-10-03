@@ -37,11 +37,11 @@
     ]
   },
   {
-    "name": "Mytheria 1.2",
+    "name": "Mytheria 2.1",
     "preview": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/mytheria.png",
     "versions": [
       {
-        "visualVersion": "1.2",
+        "visualVersion": "2.1",
         "minecraftVersion": "1.21.4",
         "loader": "fabric"
       }
