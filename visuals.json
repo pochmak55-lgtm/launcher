@@ -2,20 +2,48 @@
   {
     "name": "Plintus Visuals",
     "preview": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/plintus.png",
+    "logo": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/plintus_logo.png",
     "versions": [
+      {
+        "visualVersion": "1.2.1",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric"
+      }
+    ]
+  },
+  {
+    "name": "Phantom Visuals",
+    "preview": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/phantom.png",
+    "logo": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/phantom_logo.png",
+    "versions": [
+      {
+        "visualVersion": "3.2",
+        "minecraftVersion": "1.16.5",
+        "loader": "fabric"
+      },
+      {
+        "visualVersion": "3.2",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric"
+      },
+      {
+        "visualVersion": "4.0.5",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric"
+      },
+      {
+        "visualVersion": "4.0.6",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric"
+      },
       {
         "visualVersion": "4.0.7",
         "minecraftVersion": "1.21.4",
         "loader": "fabric"
       },
       {
-        "visualVersion": "4.0.8",
+        "visualVersion": "5.0",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
-      },
-      {
-        "visualVersion": "5.0.1",
-        "minecraftVersion": "1.21.11",
         "loader": "fabric"
       }
     ]
@@ -23,15 +51,11 @@
   {
     "name": "Liquid Visuals Alpha",
     "preview": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/liquid.png",
+    "logo": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/liquid_logo.png",
     "versions": [
       {
-        "visualVersion": "alpha-0.9.0",
+        "visualVersion": "1.0.0",
         "minecraftVersion": "1.21.4",
-        "loader": "fabric"
-      },
-      {
-        "visualVersion": "alpha-1.0.0",
-        "minecraftVersion": "1.21.11",
         "loader": "fabric"
       }
     ]
@@ -39,9 +63,15 @@
   {
     "name": "Mytheria 2.1",
     "preview": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/mytheria.png",
+    "logo": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/mytheia_logo.png",
     "versions": [
       {
         "visualVersion": "2.1",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric"
+      },
+      {
+        "visualVersion": "2.1.1",
         "minecraftVersion": "1.21.4",
         "loader": "fabric"
       }
