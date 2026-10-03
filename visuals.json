@@ -1,1 +1,50 @@
-
+[
+  {
+    "name": "Plintus Visuals",
+    "preview": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/plintus.png",
+    "versions": [
+      {
+        "visualVersion": "4.0.7",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric"
+      },
+      {
+        "visualVersion": "4.0.8",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric"
+      },
+      {
+        "visualVersion": "5.0.1",
+        "minecraftVersion": "1.21.11",
+        "loader": "fabric"
+      }
+    ]
+  },
+  {
+    "name": "Liquid Visuals Alpha",
+    "preview": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/liquid.png",
+    "versions": [
+      {
+        "visualVersion": "alpha-0.9.0",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric"
+      },
+      {
+        "visualVersion": "alpha-1.0.0",
+        "minecraftVersion": "1.21.11",
+        "loader": "fabric"
+      }
+    ]
+  },
+  {
+    "name": "Mytheria 1.2",
+    "preview": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/mytheria.png",
+    "versions": [
+      {
+        "visualVersion": "1.2",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric"
+      }
+    ]
+  }
+]
