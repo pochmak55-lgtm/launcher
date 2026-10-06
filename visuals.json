@@ -84,6 +84,12 @@
         "minecraftVersion": "1.21.4",
         "loader": "fabric",
         "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/Mytheria-2.1.1-1.21.4.jar"
+      },
+      {
+        "visualVersion": "2.1.2",
+        "minecraftVersion": "1.21.11",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/pochmak55-lgtm/launcher/releases/download/visuals-v1/Mytheria-2.1.2-1.21.11.jar"
       }
     ]
   }
