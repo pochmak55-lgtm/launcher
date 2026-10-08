@@ -1,0 +1,20 @@
+[
+  {
+    "name": "FunTime",
+    "ip": "mc.funtime.su",
+    "version": "1.16 - 1.20",
+    "photo": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/plintus_logo.png"
+  },
+  {
+    "name": "ReallyWorld",
+    "ip": "mc.reallyworld.ru",
+    "version": "1.16 - 1.20",
+    "photo": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/phantom_logo.png"
+  },
+  {
+    "name": "Hypixel",
+    "ip": "mc.hypixel.net",
+    "version": "1.8 - 1.20",
+    "photo": "https://raw.githubusercontent.com/pochmak55-lgtm/launcher/main/mytheia_logo.png"
+  }
+]
