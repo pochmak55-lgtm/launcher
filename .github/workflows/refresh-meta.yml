@@ -1,0 +1,33 @@
+name: refresh-meta
+
+# Зеркало меты Liquid Launcher: раз в сутки перегенерирует meta/v1
+# (Prism-индексы + Mojang-манифест + java.json) и коммитит изменения.
+# Куда класть в репо launcher: .github/workflows/refresh-meta.yml
+# (рядом server.json/news.json/visuals.json, мета — в meta/v1/).
+# Токен НЕ нужен: хватает штатного GITHUB_TOKEN (permissions ниже).
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate meta
+        run: python3 meta-mirror/generate.py --out meta
+      - name: Commit
+        run: |
+          git config user.name 'liquid-meta-bot'
+          git config user.email 'liquid-meta-bot@users.noreply.github.com'
+          git add meta/v1
+          git diff --cached --quiet || git commit -m 'meta: refresh'
+          git push
