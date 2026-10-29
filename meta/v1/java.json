@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T09:30:12.109914+00:00",
+ "generated": "2026-10-29T09:43:05.072229+00:00",
  "runtimes": [
   {
    "major": 8,
@@ -52,10 +52,10 @@
      "size": 46103747
     },
     "mac-x64": {
-     "release": "jdk-17.0.20.1+1",
-     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_x64_mac_hotspot_17.0.20.1_1.tar.gz",
-     "sha256": "333cb81123c36568586646c73c8fa2326dab8badc43f5ea388a90fff59c9df27",
-     "size": 37635516
+     "release": "jdk-17.0.21+9",
+     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B9/OpenJDK17U-jre_x64_mac_hotspot_17.0.21_9.tar.gz",
+     "sha256": "890214eb4d6c88dc06f990d5a6a3b72b91d5dffab6a0a6d8cffb98468bf26181",
+     "size": 37713920
     },
     "mac-aarch64": {
      "release": "jdk-17.0.21+9",
