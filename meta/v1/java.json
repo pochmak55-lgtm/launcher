@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T10:41:27.187223+00:00",
+ "generated": "2026-11-04T10:43:38.141738+00:00",
  "runtimes": [
   {
    "major": 8,
@@ -34,10 +34,10 @@
    "major": 17,
    "platforms": {
     "windows-x64": {
-     "release": "jdk-17.0.20.1+1",
-     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_x64_windows_hotspot_17.0.20.1_1.zip",
-     "sha256": "bc21a93923103cdaac93ee337b0ae4365e739fde36df823dd456bc67c8a9d352",
-     "size": 43780109
+     "release": "jdk-17.0.21+9",
+     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B9/OpenJDK17U-jre_x64_windows_hotspot_17.0.21_9.zip",
+     "sha256": "fe4656bd78fb09812dc38c49da777f79cc33e7ee435a254be82f9e7f40d9d117",
+     "size": 43860024
     },
     "linux-x64": {
      "release": "jdk-17.0.21+9",
