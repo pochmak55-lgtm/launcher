@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T10:37:24.410071+00:00",
+ "generated": "2026-11-12T10:50:17.724082+00:00",
  "runtimes": [
   {
    "major": 8,
@@ -23,10 +23,10 @@
      "size": 40830137
     },
     "mac-x64": {
-     "release": "jdk8u504-b01",
-     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u504-b01/OpenJDK8U-jre_x64_mac_hotspot_8u504b01.tar.gz",
-     "sha256": "f06abadad0fa97e04866d7229a2baad53261579ab5d44875ffa8846a28f28d86",
-     "size": 44361038
+     "release": "jdk8u512-b09",
+     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_mac_hotspot_8u512b09.tar.gz",
+     "sha256": "16bb913d96dba341e688ef645d6f48f5b43af261c367caa49a30a3851e8a2806",
+     "size": 44383244
     }
    }
   },
