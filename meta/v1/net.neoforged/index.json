@@ -5,6 +5,149 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2026-11-17T08:31:38.316518+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "d2e46d5a50ef8c448ff4346b47c47feb6b39d479fb5c604fe9c0ef715f642d16",
+            "type": "release",
+            "version": "26.3.0.110"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-17T03:40:27.799509+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "2a93560861d6eb0a22a94a4f932380b1893cb8f3617cc2d7b13c580e566d40e0",
+            "type": "release",
+            "version": "26.3.0.109"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-17T03:31:54.325074+00:00",
+            "requires": [
+                {
+                    "equals": "26.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "8d8327d48e02d6442ebe2a1599a281d4f64a09ec30997b33b9905da9b3fa1118",
+            "type": "release",
+            "version": "26.2.0.95"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-17T03:28:36.727881+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "8ca894a23ae03f86b71d782100d47cf8b06dbdefd354e9eff8471096427a9e5e",
+            "type": "release",
+            "version": "26.1.2.127"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-17T03:18:22.280885+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6d67c52cbf5a82146aa4dbf958216ce2b15446e09d952d0c150bbe663f411964",
+            "type": "release",
+            "version": "21.1.267"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-17T00:10:18.566258+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "449083a906cf314966f2d8b300af9573c8f0d83ba8699ee7287bec84b41648a1",
+            "type": "release",
+            "version": "26.3.0.108"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-17T00:07:06.737927+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "19d14cf863140f441fbd9b3827723c658810ce2d292c72f0128955c3add8427c",
+            "type": "release",
+            "version": "26.3.0.107"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-17T00:01:22.747293+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "11f4b289fab799039846ab626c2d68fe79bc7b43ad0d990b977ba48916a069f3",
+            "type": "release",
+            "version": "26.3.0.106"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-16T23:56:50.761273+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "0ff522f846bd0ca13e7ff84b032dd2386fb8d63883f52c4a3b02eb5f8a96234d",
+            "type": "release",
+            "version": "26.3.0.105"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-16T23:54:22.014364+00:00",
+            "requires": [
+                {
+                    "equals": "26.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "c5daba881b911b10c54b7983535873b88c488eceb42123a085484d7a88db4418",
+            "type": "release",
+            "version": "26.2.0.94"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-16T23:28:04.284760+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "97a226923b1504ccb9234233aa81b2da45fd459d03922ef1c4b4f9ba9e999f17",
+            "type": "release",
+            "version": "26.3.0.104"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-11-12T19:44:03.414405+00:00",
             "requires": [
                 {
